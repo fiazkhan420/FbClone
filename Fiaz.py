@@ -111,7 +111,6 @@ def user_info():
 
         os.system('clear')
 
-	print banner	print("\033[1;93mPlease Wait A Mintue").center(50)
 
 	print("")
 
